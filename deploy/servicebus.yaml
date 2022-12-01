@@ -7,6 +7,6 @@ spec:
   version: v1
   metadata:
   - name: connectionString
-    value: "Endpoint=sb://sbuslevelup.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=XVDTOCbduT79kqlADPI+eIsOk7Whqgj9VeLr0oWwyLk=" 
+    value: "Endpoint=sb://<sb name>/;SharedAccessKeyName=<key name>;SharedAccessKey=<access keys>" 
   - name: queueName
     value: downloads

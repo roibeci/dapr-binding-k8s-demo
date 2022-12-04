@@ -4,7 +4,7 @@
 
 This tutorial will get you up and running with Dapr in a Kubernetes cluster. You will be deploying the same applications from [Hello World](../hello-world). To recap, the Python App generates messages and the Node app consumes and persists them. The following architecture diagram illustrates the components that make up this quickstart:
 
-![Architecture Diagram](./img/Architecture_Diagram.png)
+![Architecture Diagram](./img/dapr-python.png)
 
 ## Prerequisites
 

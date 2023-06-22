@@ -1,4 +1,4 @@
-# dapr-binding-k8s-demo
+# dapr-binding-k8s-demo - FEATURE A EDIT !!!!
 =======
 # Hello Kubernetes
 
